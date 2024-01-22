@@ -1,4 +1,9 @@
-## Ola, me chamo Jhonatan, sou formado em Jogos Digitais na instituição FATEC, neste GitHub tenho como principal objetivo criar meu portfólio de na área de desenvolvimento, seja ela em jogos ou em softwares.
+## Ola, eu sou o Jhonatan
+
+- 🔭 Hoje trabalho com back-end
+- 🌱 Formado em Jogos Digitais
+- 😄 Pronomes: Ele/Dele
+- ⚡ Objetivo principal: Solidificar meu portfólio
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jhow-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
